@@ -1,0 +1,16 @@
+D:\School\Food\Food\obj\Debug\netcoreapp3.1\Food.vbproj.AssemblyReference.cache
+D:\School\Food\Food\obj\Debug\netcoreapp3.1\Food.Form1.resources
+D:\School\Food\Food\obj\Debug\netcoreapp3.1\Food.vbproj.GenerateResource.cache
+D:\School\Food\Food\obj\Debug\netcoreapp3.1\Food.GeneratedMSBuildEditorConfig.editorconfig
+D:\School\Food\Food\obj\Debug\netcoreapp3.1\Food.AssemblyInfoInputs.cache
+D:\School\Food\Food\obj\Debug\netcoreapp3.1\Food.AssemblyInfo.vb
+D:\School\Food\Food\obj\Debug\netcoreapp3.1\Food.vbproj.CoreCompileInputs.cache
+D:\School\Food\Food\bin\Debug\netcoreapp3.1\Food.exe
+D:\School\Food\Food\bin\Debug\netcoreapp3.1\Food.deps.json
+D:\School\Food\Food\bin\Debug\netcoreapp3.1\Food.runtimeconfig.json
+D:\School\Food\Food\bin\Debug\netcoreapp3.1\Food.runtimeconfig.dev.json
+D:\School\Food\Food\bin\Debug\netcoreapp3.1\Food.dll
+D:\School\Food\Food\bin\Debug\netcoreapp3.1\Food.pdb
+D:\School\Food\Food\obj\Debug\netcoreapp3.1\Food.dll
+D:\School\Food\Food\obj\Debug\netcoreapp3.1\Food.pdb
+D:\School\Food\Food\obj\Debug\netcoreapp3.1\Food.genruntimeconfig.cache
